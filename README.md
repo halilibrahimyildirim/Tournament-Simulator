@@ -13,4 +13,7 @@
   <br>input 2->Seed for randomizer(integer)
 ## Output
   ![output](https://github.com/halilibrahimyildirim/Tournament-Simulator/blob/master/screenshots/Output.png)
+## Contact
+Halil İbrahim Yıldırım - halil.ibr.yildirim@gmail.com
+  
 #### (05/2018)
